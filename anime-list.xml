@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<anime-list>  
+  <anime anidbid="10538" tvdbid="281275" defaulttvdbseason="1">
+    <name>Saekano</name>
+    <supplemental-info>
+      <studio>A-1 Pictures</studio>
+    </supplemental-info>
+  </anime>
+  <anime anidbid="10875" tvdbid="281249" defaulttvdbseason="2">
+    <name>Tokyo Ghoul Root A</name>
+  </anime>
+  <anime anidbid="10702" tvdbid="283947" defaulttvdbseason="1">
+    <name>Assassination Classroom</name>
+  </anime>
+</anime-list>
